@@ -53,7 +53,6 @@ public class TC_001_AccountRegistrationTest extends BaseClass
 			logger.error("test failed....");
 			Assert.fail("An exception occur : "+e.getMessage());
 		}
-		
 		logger.debug("Application logs end.....");
 		logger.info("*** Finished TC_001_AccountRegistrationTest ****");
 	}
