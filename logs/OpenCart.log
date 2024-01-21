@@ -256,3 +256,31 @@
 13:04:47.780 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest - Suite is started
 13:04:47.782 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
 13:05:04.624 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_005_AddToCartPageTest 
+13:41:01.921 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Suite is started
+13:41:01.927 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs started.....
+13:41:01.927 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ****
+13:41:41.165 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed....
+13:41:49.352 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Suite is started
+13:41:49.354 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs started.....
+13:41:49.354 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ****
+13:41:49.922 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount drop-down
+13:41:50.581 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register Link.
+13:41:50.581 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer Details.
+13:41:51.752 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue Button.
+13:41:51.785 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected Message
+13:41:51.785 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs end.....
+13:41:51.786 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountRegistrationTest ****
+13:41:58.951 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Suite is started
+13:41:58.952 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ****
+13:41:58.952 [TestNG-tests-1] DEBUG testCases.TC_002_LoginTest - Capturing Application debug logs.....
+13:41:59.368 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount drop-down
+13:41:59.811 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Clicked on Login Link under MyAccount.
+13:41:59.826 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Entering valid login details.
+13:42:00.713 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Validating Page Existance
+13:42:00.713 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ****
+13:42:08.064 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest - Suite is started
+13:42:08.065 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:42:15.098 [TestNG-tests-1] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+13:42:22.250 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest - Suite is started
+13:42:22.251 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+13:42:39.286 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_005_AddToCartPageTest 
